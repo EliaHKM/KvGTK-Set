@@ -18,37 +18,51 @@ Screenshot
 Installation:
 ============
 to install you have to install oomox (themix)
+
 copy the file you want to .config/oomox/colors
+
 then run oomox
+
 find the theme and exported
 
 
 Contact:
 =======
-deviantart: https://www.deviantart.com/darkeye90
-Instagram : @darkeye90shop
-Mastadon: @darkeye90@social.opendesktop.org
-Odysee : https://odysee.com/@darkeye90:a
+- deviantart: https://www.deviantart.com/darkeye90
+- Instagram : @darkeye90shop
+- Mastadon: @darkeye90@social.opendesktop.org
+- Odysee : https://odysee.com/@darkeye90:a
 
 Support:
 ========
 You can support me by buying me a coffee will not really a coffee anything will do the trick  ;)
 
 Pling me on pling.com
+
 or
+
 I might offer some materials
+
 https://ko-fi.com/darkeye
+
 or
+
 New way of share your support
+
 https://liberapay.com/darkeye90/
+
 or
+
 find something you like here
+
 https://society6.com/darkeye90
 
 Credit:
 ======
 oomox
+
 https://github.com/themix-project/oomox
 
 Kvantum
+
 KvDark, KvDarkRed and KvBrown
